@@ -21,12 +21,12 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <img  src="https://github-profile-trophy.vercel.app/?username=willis569869783&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
-#   🚀 Actions
+
+#  🚀 Actions
+
 <!-- 连续提交代码天数记录 -->
 <div align="center">
-  <img width="150" src="https://cdn.jsdelivr.net/gh/willis569869783/photos/images/202108300310676.png" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=willis569869783&theme=dark&hide_border=true" />
-  <img width="150" src="https://cdn.jsdelivr.net/gh/willis569869783/photos/images/202108300312623.png" />
 </div>
 <br>
 <div align="center">
