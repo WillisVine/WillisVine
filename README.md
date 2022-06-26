@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <img  src="https://github-profile-trophy.vercel.app/?username=willis569869783&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
-# 🚀 Actions
+#   🚀 Actions
 <!-- 连续提交代码天数记录 -->
 <div align="center">
   <img width="150" src="https://cdn.jsdelivr.net/gh/willis569869783/photos/images/202108300310676.png" />
@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
     <img  src="https://visitor-badge.glitch.me/badge?page_id=willis569869783" />
 </div>
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=willis569869783&theme=xcode" />
 </div>
 
 
